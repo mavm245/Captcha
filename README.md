@@ -1,2 +1,2 @@
 # Captcha
-#Implementacíon sencilla del No Captcha ReCaptcha
+--Implementacíon sencilla del No Captcha ReCaptcha
